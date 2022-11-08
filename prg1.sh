@@ -6,4 +6,5 @@ hostname
 echo "The Redhat Release Version is:"
 cat /etc/redhat-release
 #End of the script
+#Oneline added
 
